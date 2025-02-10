@@ -39,10 +39,14 @@
             "id": "db88ae666dc9ac9e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Matemáticas II/Límites y Continuidad/Indeterminaciones.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Indeterminaciones"
             }
           }
         ],
@@ -103,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "965d4a2e8888bb6f",
@@ -204,8 +208,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2dc1dad549592f29",
+  "active": "db88ae666dc9ac9e",
   "lastOpenFiles": [
+    "Matemáticas II/Límites y Continuidad/Qué es una función.md",
+    "Obsidian_foJI696s08.png",
+    "Obsidian_l8F8ilKU5B.png",
     "Matemáticas II/Integrales/Integrales definidas.md",
     "Matemáticas II/Integrales/Métodos avanzados de integración.md",
     "Matemáticas II/Integrales/Integrales racionales.md",
@@ -231,12 +238,10 @@
     "Matemáticas II/Límites y Continuidad/Límites y Continuidad.md",
     "Matemáticas II/Derivadas",
     "Matemáticas II/Límites y Continuidad/Indeterminaciones.md",
-    "Matemáticas II/Límites y Continuidad/Qué es una función.md",
     "Matemáticas II/Límites y Continuidad",
     "Matemáticas II/Matemáticas II.md",
     "Físicas/Teoría de la Gravitación Universal/La energía potencial.md",
     "Físicas/Teoría de la Gravitación Universal/Astrofísica del s.XVII.md",
-    "Físicas/Teoría de la Gravitación Universal/Teoría de la Gravitación Universal.md",
     "Físicas/Teoría de la Gravitación Universal",
     "Físicas/Movimiento Ondulatorio",
     "Físicas/Movimiento Vibratorio",
