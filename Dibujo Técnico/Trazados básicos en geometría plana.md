@@ -19,5 +19,15 @@
 - Triángulos
 	- Según los lados: equilátero, isósceles y escaleno
 	- Según los ángulos: acutángulo, rectángulo y obtusánglo
-	- Centros de un tríangulo: circuncentro,
-- 
+	- Centros de un tríangulo: circuncentro, incentro, ortocentro y baricentro
+	![[Circuncentro.png]]
+	![[Incentro.png]]
+	![[Ortocentro.png]]
+	![[Baricentro.png]]
+- Cuadriláteros
+	- Paralelogramos: cuadrado, rectángulo, rombo y romboide
+	- Trapecios: isósceles, rectángulo y escaleno
+	- Trapezoides
+- Pentágonos
+- Hexágonos
+- Método general de construcción de polígonos

@@ -27,30 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dibujo Técnico/Estrategias para el dibujo de vistas y figuras en 3D.md",
+                "file": "Dibujo Técnico/Potencia. Aplicación a tangencias.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Estrategias para el dibujo de vistas y figuras en 3D"
-            }
-          },
-          {
-            "id": "f8460e6b62d810a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Matemáticas II/Derivadas/Continuidad y derivabilidad.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Continuidad y derivabilidad"
+              "title": "Potencia. Aplicación a tangencias"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,44 +194,46 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f8460e6b62d810a3",
+  "active": "2dc1dad549592f29",
   "lastOpenFiles": [
+    "Dibujo Técnico/Images/Problemas de tangencias - circunferencias tangentes dos puntos.png",
+    "Dibujo Técnico/Images/Problemas de tangencias - circunferencias tangentes.png",
+    "Dibujo Técnico/Potencia. Aplicación a tangencias.md",
+    "Dibujo Técnico/Images/Problemas de tangencias - circunferencias tangentes a dos circunferencias.png",
+    "Dibujo Técnico/Images/Circunferencia Tangente y Secante.png",
+    "Dibujo Técnico/Images/Concepto de potencia.png",
+    "Dibujo Técnico/Proporcionalidad.md",
+    "Dibujo Técnico/Images/Rectángulo áureo.png",
+    "Dibujo Técnico/Images/Número áureo.png",
+    "Pasted image 20250304193504.png",
+    "Dibujo Técnico/Images/Teorema de Tales.png",
+    "Pasted image 20250304192943.png",
+    "Pasted image 20250304192945.png",
+    "Dibujo Técnico/Composición espacial y figuras.md",
+    "Dibujo Técnico/Trazados básicos en geometría plana.md",
+    "Dibujo Técnico/Conocimiento y manejo de los útiles de dibujo.md",
+    "Dibujo Técnico/Métodos del sistema diédrico/Abatimiento y desbatimiento.md",
+    "Matemáticas II/Derivadas/Continuidad y derivabilidad.md",
     "Matemáticas II/Derivadas/Derivadas más complejas.md",
     "Matemáticas II/Derivadas/Ejemplos de derivación.md",
     "Matemáticas II/Derivadas/Qué es una derivada.md",
-    "Matemáticas II/Derivadas/Continuidad y derivabilidad.md",
     "Matemáticas II/Derivadas/Derivadas.md",
     "Físicas/Campo Gravitatorio Terrestre/Gravitational Fields.md",
     "Físicas/Images",
-    "Físicas/Images/Two Masses.png",
-    "chrome_9oxtaQOeJ5.png",
     "Físicas/Campo Gravitatorio Terrestre/Campo gravitatorio.md",
     "Físicas/Campo Gravitatorio Terrestre/Mecánica orbital II.md",
     "Físicas/Campo Gravitatorio Terrestre/Mecánica orbital I.md",
     "Físicas/Campo Gravitatorio Terrestre/Campo Gravitatorio Terrestre.md",
-    "Dibujo Técnico/Images/Circunferencia.png",
     "Untitled.md",
-    "Dibujo Técnico/Trazados básicos en geometría plana.md",
-    "Dibujo Técnico/Images/Arco capaz.png",
-    "Dibujo Técnico/Images/Bisectriz.png",
-    "Dibujo Técnico/Images/Mediatriz.png",
     "Dibujo Técnico/Images",
-    "Dibujo Técnico/Conocimiento y manejo de los útiles de dibujo.md",
-    "Dibujo Técnico/Estrategias para el dibujo de vistas y figuras en 3D.md",
     "Físicas/Teoría de la Gravitación Universal/La energía potencial.md",
     "Físicas/Teoría de la Gravitación Universal/Teoría de la Gravitación Universal.md",
     "Físicas/Teoría de la Gravitación Universal/Astrofísica del s.XVII.md",
     "Matemáticas II/Límites y Continuidad/Qué es una función.md",
     "Matemáticas II/Límites y Continuidad/Indeterminaciones.md",
     "README.md",
-    "Obsidian_foJI696s08.png",
-    "Obsidian_l8F8ilKU5B.png",
     "Matemáticas II/Integrales/Integrales definidas.md",
     "Matemáticas II/Integrales/Métodos avanzados de integración.md",
-    "Matemáticas II/Integrales/Integrales racionales.md",
-    "Matemáticas II/Integrales/Integrales inmediatas.md",
-    "Matemáticas II/Integrales/Integrales.md",
-    "Matemáticas II/Representación de funciones/Representación gráfica de funciones.md",
     "Matemáticas II/Integrales",
     "Matemáticas II/Representación de funciones",
     "Matemáticas II/Aplicaciones de las Derivadas",

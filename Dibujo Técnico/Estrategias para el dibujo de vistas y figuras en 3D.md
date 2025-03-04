@@ -1,2 +1,0 @@
-[[Dibujo Técnico]]
-
