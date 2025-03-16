@@ -12,10 +12,10 @@ With binary search:
 
 ## Exercises
 
-1. Suppose you have a sorted list of 128 names, and you’re searching through it using binary search. What’s the maximum number of steps it would take?
+- Suppose you have a sorted list of 128 names, and you’re searching through it using binary search. What’s the maximum number of steps it would take?
 
 it would take 7 steps. $\log_{2}(128) = 7$
 
-1. Suppose you double the size of the list. What’s the maximum number of steps now?
+- Suppose you double the size of the list. What’s the maximum number of steps now?
 
 it would then be 8 steps. $\log_{2}(256) = 8$
