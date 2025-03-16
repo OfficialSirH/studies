@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matemáticas II/Aplicaciones de las Derivadas/Extremos relativos.md",
+                "file": "Computer Science/Grokking Algorithms/Introduction to algorithms/Binary Search.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Extremos relativos"
+              "title": "Binary Search"
             }
           }
         ],
@@ -196,6 +196,16 @@
   },
   "active": "4f9e405bde463611",
   "lastOpenFiles": [
+    "Computer Science/Grokking Algorithms/Grokking Algorithms.md",
+    "Computer Science/Grokking Algorithms/Introduction to algorithms/Binary Search.md",
+    "Computer Science/Grokking Algorithms/Introduction to algorithms",
+    "Computer Science/Computer Science.md",
+    "Físicas/Campo Gravitatorio Terrestre/Mecánica orbital II.md",
+    "Computer Science/Grokking Algorithms",
+    "Computer Science",
+    "Físicas/Campo Gravitatorio Terrestre/Mecánica orbital I.md",
+    "Físicas/Campo Gravitatorio Terrestre/Campo gravitatorio.md",
+    "Matemáticas II/Aplicaciones de las Derivadas/Extremos relativos.md",
     "Matemáticas II/Aplicaciones de las Derivadas/Images/Recta real.png",
     "Matemáticas II/Aplicaciones de las Derivadas/Images",
     "Matemáticas II/Images",
@@ -210,13 +220,10 @@
     "Dibujo Técnico/Images/Inversión de un punto.png",
     "Dibujo Técnico/Images/Inversión positiva y negativa.png",
     "Dibujo Técnico/Images/Circunferencia de autoinversión.png",
-    "Dibujo Técnico/Images/Concepto de Inversión.png",
     "Dibujo Técnico/Potencia. Aplicación a tangencias.md",
     "Dibujo Técnico/Proporcionalidad.md",
     "Físicas/Campo Gravitatorio Terrestre/Campo Gravitatorio Terrestre.md",
     "Físicas/Físicas.md",
-    "Físicas/Campo Gravitatorio Terrestre/Mecánica orbital I.md",
-    "Físicas/Campo Gravitatorio Terrestre/Campo gravitatorio.md",
     "Físicas/Campo Gravitatorio Terrestre/Gravitational Fields.md",
     "Físicas/Campo Eléctrico/Electrostática I.md",
     "Físicas/Campo Eléctrico/Campo Eléctrico.md",
@@ -230,18 +237,11 @@
     "Matemáticas II/Derivadas/Qué es una derivada.md",
     "Matemáticas II/Derivadas/Derivadas.md",
     "Físicas/Images",
-    "Físicas/Campo Gravitatorio Terrestre/Mecánica orbital II.md",
     "Untitled.md",
     "Dibujo Técnico/Images",
-    "Físicas/Teoría de la Gravitación Universal/La energía potencial.md",
-    "Físicas/Teoría de la Gravitación Universal/Teoría de la Gravitación Universal.md",
-    "Físicas/Teoría de la Gravitación Universal/Astrofísica del s.XVII.md",
     "Matemáticas II/Integrales",
     "Matemáticas II/Representación de funciones",
     "Matemáticas II/Aplicaciones de las Derivadas",
-    "Matemáticas II/Derivadas",
-    "Matemáticas II/Límites y Continuidad",
-    "Físicas/Teoría de la Gravitación Universal",
     "Untitled.canvas"
   ]
 }
