@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dibujo Técnico/Elementos básicos del sistema diédrico/Intersecciones, paralelismo y perpendicularidad.md",
+                "file": "Dibujo Técnico/Métodos del sistema diédrico/Giro y cambio de plano.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Intersecciones, paralelismo y perpendicularidad"
+              "title": "Giro y cambio de plano"
             }
           }
         ],
@@ -206,23 +206,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "55a83b8c96e62f65",
+  "active": "2dc1dad549592f29",
   "lastOpenFiles": [
-    "Dibujo Técnico/Elementos básicos del sistema diédrico/Images/Perpendicularidad - P&P.png",
-    "Dibujo Técnico/Elementos básicos del sistema diédrico/Images/Perpendicularidad - P&R.png",
-    "Dibujo Técnico/Elementos básicos del sistema diédrico/Images/Perpendicularidad - R&P.png",
-    "Dibujo Técnico/Elementos básicos del sistema diédrico/Images/Perpendicularidad - R&R.png",
-    "Dibujo Técnico/Elementos básicos del sistema diédrico/Images/Paralelismo - P&R Directo.png",
-    "Dibujo Técnico/Elementos básicos del sistema diédrico/Images/Paralelismo - P&R.png",
-    "Dibujo Técnico/Elementos básicos del sistema diédrico/Images/Paralelismo - R&P.png",
-    "Dibujo Técnico/Elementos básicos del sistema diédrico/Images/Paralelismo - R&R.png",
-    "Dibujo Técnico/Elementos básicos del sistema diédrico/Images/Intersecciones - R&P.png",
-    "Dibujo Técnico/Elementos básicos del sistema diédrico/Images/Intersecciones - P&P.png",
-    "Dibujo Técnico/Elementos básicos del sistema diédrico/Images/Interseccion - R&R.png",
+    "Dibujo Técnico/Métodos del sistema diédrico/Images/Cambio de plano - plano.png",
+    "Dibujo Técnico/Métodos del sistema diédrico/Images/Cambio de plano - recta.png",
+    "Dibujo Técnico/Métodos del sistema diédrico/Images/Cambio de plano - punto 2.png",
+    "Dibujo Técnico/Métodos del sistema diédrico/Images/Cambio de plano - punto 1.png",
+    "Dibujo Técnico/Métodos del sistema diédrico/Images/Cambio de plano - nueva línea de tierra.png",
+    "Dibujo Técnico/Métodos del sistema diédrico/Images/Cambio de plano - vertical.png",
+    "Dibujo Técnico/Métodos del sistema diédrico/Images/Cambio de plano - horizontal.png",
+    "Dibujo Técnico/Métodos del sistema diédrico/Images/Giro - plano.png",
+    "Dibujo Técnico/Métodos del sistema diédrico/Images/Giro - enfocado Recta 2.png",
+    "Dibujo Técnico/Métodos del sistema diédrico/Images/Giro - enfocado Recta 1.png",
+    "Dibujo Técnico/Métodos del sistema diédrico/Images/Giro - Recta.png",
+    "Dibujo Técnico/Métodos del sistema diédrico/Verdadera magnitud.md",
+    "Dibujo Técnico/Métodos del sistema diédrico/Images",
+    "Dibujo Técnico/Elementos básicos del sistema diédrico/Intersecciones, paralelismo y perpendicularidad.md",
     "Dibujo Técnico/Elementos básicos del sistema diédrico/Rectas y planos. Pertenencias.md",
     "Dibujo Técnico/Elementos básicos del sistema diédrico/Introducción al sistema diédrico.md",
     "Dibujo Técnico/Elementos básicos del sistema diédrico/Elementos básicos del sistema diédrico.md",
-    "Dibujo Técnico/Elementos básicos del sistema diédrico/Intersecciones, paralelismo y perpendicularidad.md",
     "Matemáticas II/Representación de funciones/Representación gráfica de funciones.md",
     "Matemáticas II/Representación de funciones/Asíntotas.md",
     "Matemáticas II/Representación de funciones/Optimización.md",
@@ -250,10 +252,8 @@
     "Físicas/Campo Gravitatorio Terrestre/Campo gravitatorio.md",
     "Matemáticas II/Aplicaciones de las Derivadas/Images",
     "Matemáticas II/Images",
-    "Matemáticas II/Aplicaciones de las Derivadas/Aplicaciones de las Derivadas.md",
     "Físicas/Images",
     "Dibujo Técnico/Images",
-    "Matemáticas II/Integrales",
     "Untitled.canvas"
   ]
 }
