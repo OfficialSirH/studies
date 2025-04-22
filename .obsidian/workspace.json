@@ -4,51 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "0300d02a53d016bf",
+        "id": "06aa664d4f1dc893",
         "type": "tabs",
         "children": [
           {
-            "id": "930f2bc05cfb26a3",
+            "id": "3220199035b251a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dibujo Técnico/Trazados básicos en geometría plana.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Trazados básicos en geometría plana"
-            }
-          },
-          {
-            "id": "4f9e405bde463611",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Dibujo Técnico/Elementos básicos del sistema diédrico/Images/Recta horizontal.png"
-              },
-              "icon": "lucide-image",
-              "title": "Recta horizontal"
-            }
-          },
-          {
-            "id": "55a83b8c96e62f65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dibujo Técnico/Métodos del sistema diédrico/Giro y cambio de plano.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Giro y cambio de plano"
+              "title": "README"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -169,27 +142,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Físicas/Gex.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Gex"
-            }
-          },
-          {
-            "id": "deffd2d3429dd560",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of README"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -208,6 +171,42 @@
   },
   "active": "2dc1dad549592f29",
   "lastOpenFiles": [
+    "Mathematics/Trigonometry/Trigonometry.md",
+    "Mathematics/Geometry/Geometry.md",
+    "Mathematics/Vector Math/Vector Math.md",
+    "Mathematics/Linear Algebra/Linear Algebra.md",
+    "Mathematics/Statistics/Statistics.md",
+    "Mathematics/Calculus/Calculus.md",
+    "Mathematics/Algebra/Algebra.md",
+    "Mathematics/Vector Math",
+    "Mathematics/Mathematics.md",
+    "Mathematics/Trigonometry",
+    "Mathematics/Statistics",
+    "Mathematics/Geometry",
+    "Mathematics/Calculus",
+    "Mathematics/Linear Algebra",
+    "Mathematics/Algebra",
+    "Mathematics",
+    "Español/Writing Practice/Writing Practice.md",
+    "Español/Writing Practice/Month 1.md",
+    "Español/Writing Practice",
+    "Español/Books.md",
+    "Computer Science/Reverse Engineering/Reverse Engineering.md",
+    "Computer Science/Reverse Engineering",
+    "Computer Science/Computer Architecture/Computer Architecture.md",
+    "Computer Science/C/C.md",
+    "Computer Science/Books/Modern C/Modern C.md",
+    "Computer Science/Books/Grokking Algorithms/Selection sort/Untitled.md",
+    "Computer Science/Books/Grokking Algorithms/Selection sort/Selection sort.md",
+    "Computer Science/Books/Grokking Algorithms/Selection sort/Arrays and linked lists.md",
+    "Computer Science/Books/Grokking Algorithms/Introduction to algorithms/Binary Search.md",
+    "Computer Science/Books/Grokking Algorithms/Introduction to algorithms/Big O notation.md",
+    "Computer Science/Books/Grokking Algorithms/Introduction to algorithms/Untitled.md",
+    "Computer Science/Books/Grokking Algorithms/Introduction to algorithms/Introduction to algorithms.md",
+    "Computer Science/Books/Grokking Algorithms/Introduction to algorithms/Arrays and linked lists.md",
+    "Computer Science/Books/Grokking Algorithms/Grokking Algorithms.md",
+    "Computer Science/Books/Crafting Interpreters/Crafting Interpreters.md",
+    "Computer Science/Books/Books.md",
     "Dibujo Técnico/Métodos del sistema diédrico/Images/Cambio de plano - plano.png",
     "Dibujo Técnico/Métodos del sistema diédrico/Images/Cambio de plano - recta.png",
     "Dibujo Técnico/Métodos del sistema diédrico/Images/Cambio de plano - punto 2.png",
@@ -218,42 +217,6 @@
     "Dibujo Técnico/Métodos del sistema diédrico/Images/Giro - plano.png",
     "Dibujo Técnico/Métodos del sistema diédrico/Images/Giro - enfocado Recta 2.png",
     "Dibujo Técnico/Métodos del sistema diédrico/Images/Giro - enfocado Recta 1.png",
-    "Dibujo Técnico/Métodos del sistema diédrico/Images/Giro - Recta.png",
-    "Dibujo Técnico/Métodos del sistema diédrico/Verdadera magnitud.md",
-    "Dibujo Técnico/Métodos del sistema diédrico/Images",
-    "Dibujo Técnico/Elementos básicos del sistema diédrico/Intersecciones, paralelismo y perpendicularidad.md",
-    "Dibujo Técnico/Elementos básicos del sistema diédrico/Rectas y planos. Pertenencias.md",
-    "Dibujo Técnico/Elementos básicos del sistema diédrico/Introducción al sistema diédrico.md",
-    "Dibujo Técnico/Elementos básicos del sistema diédrico/Elementos básicos del sistema diédrico.md",
-    "Matemáticas II/Representación de funciones/Representación gráfica de funciones.md",
-    "Matemáticas II/Representación de funciones/Asíntotas.md",
-    "Matemáticas II/Representación de funciones/Optimización.md",
-    "Matemáticas II/Aplicaciones de las Derivadas/L'Hôpital.md",
-    "Dibujo Técnico/Elementos básicos del sistema diédrico/Images",
-    "Dibujo Técnico/Inversión.md",
-    "Matemáticas II/Aplicaciones de las Derivadas/Curvatura.md",
-    "Matemáticas II/Aplicaciones de las Derivadas/Extremos relativos.md",
-    "Computer Science/Grokking Algorithms/Selection sort/Selection sort.md",
-    "Computer Science/Grokking Algorithms/Selection sort/Arrays and linked lists.md",
-    "Computer Science/Grokking Algorithms/Selection sort/Untitled.md",
-    "Computer Science/Grokking Algorithms/Introduction to algorithms/Introduction to algorithms.md",
-    "Computer Science/Grokking Algorithms/Selection sort",
-    "Computer Science/Grokking Algorithms/Introduction to algorithms/Untitled.md",
-    "Computer Science/Grokking Algorithms/Introduction to algorithms/Binary Search.md",
-    "Computer Science/Grokking Algorithms/Introduction to algorithms/Arrays and linked lists.md",
-    "Computer Science/Grokking Algorithms/Introduction to algorithms/Big O notation.md",
-    "Computer Science/Grokking Algorithms/Grokking Algorithms.md",
-    "Computer Science/Grokking Algorithms/Introduction to algorithms",
-    "Computer Science/Computer Science.md",
-    "Físicas/Campo Gravitatorio Terrestre/Mecánica orbital II.md",
-    "Computer Science/Grokking Algorithms",
-    "Computer Science",
-    "Físicas/Campo Gravitatorio Terrestre/Mecánica orbital I.md",
-    "Físicas/Campo Gravitatorio Terrestre/Campo gravitatorio.md",
-    "Matemáticas II/Aplicaciones de las Derivadas/Images",
-    "Matemáticas II/Images",
-    "Físicas/Images",
-    "Dibujo Técnico/Images",
     "Untitled.canvas"
   ]
 }
