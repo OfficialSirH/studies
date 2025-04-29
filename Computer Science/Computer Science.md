@@ -3,6 +3,7 @@
 
 - [C and Other Topics](https://mohitmishra786.github.io/chessman/)
 - [Information Theory, Pattern Recognition, and Neural Networks](https://www.youtube.com/playlist?list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6)
+- [Architecture, Debugger, Reverse Engineering, Hardware and Security Courses](https://p.ost2.fyi/)
 
 # Exercises
 
