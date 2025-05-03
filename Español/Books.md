@@ -3,8 +3,8 @@
 
 ### Beginner
 * [ ] _El escape cubano_ (Mira Canion, 2017)  
-* [ ] _El agente secreto y_ (Mira Canion, 2017)  
-* [ ] _La isla más peligrosa_ (John Sifert, 2018)  
+* [ ] _Agentes secretos y el mural de Picasso_ (Mira Canion, 2017)  
+* [ ? ] _La isla más peligrosa_ (John Sifert, 2018)  
 
 ### Advanced Beginner
 * [ ] _Esperanza_ (Carol Gaab, 2018)  
