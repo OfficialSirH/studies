@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "763743555ce3613b",
+        "id": "a9e766482a7f31d4",
         "type": "tabs",
         "children": [
           {
-            "id": "873e5aaa0abff6d1",
+            "id": "a8ceba536a2bdf2c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Books/Grokking Algorithms/breadth-first search/breadth-first search.md",
+                "file": "Computer Science/Books/Grokking Algorithms/Dijkstra's algorithm/Dijkstra's algorithm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "breadth-first search"
+              "title": "Dijkstra's algorithm"
             }
           }
         ]
@@ -170,10 +170,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "873e5aaa0abff6d1",
+  "active": "2dc1dad549592f29",
   "lastOpenFiles": [
-    "Computer Science/Books/Grokking Algorithms/hash tables/hash tables.md",
+    "Untitled.md",
+    "Computer Science/Books/Grokking Algorithms/Dijkstra's algorithm/Dijkstra's algorithm.md",
+    "Español/Books.md",
+    "Español/Español.md",
+    "Español/Writing Practice/Writing Practice.md",
+    "Español/Writing Practice/Month 1.md",
+    "Untitled.canvas",
     "Computer Science/Books/Grokking Algorithms/breadth-first search/breadth-first search.md",
+    "Computer Science/Books/Grokking Algorithms/Dijkstra's algorithm",
+    "Computer Science/Books/Grokking Algorithms/hash tables/hash tables.md",
     "Computer Science/Books/Grokking Algorithms/breadth-first search",
     "Computer Science/Books/Grokking Algorithms/Selection sort/Selection sort.md",
     "Mathematics/Mathematics.md",
@@ -187,8 +195,6 @@
     "Computer Science/Books/Grokking Algorithms/quicksort",
     "Computer Science/Books/Grokking Algorithms/Selection sort/Untitled.md",
     "Computer Science/Books/Grokking Algorithms/Recursion",
-    "Español/Books.md",
-    "Español/Español.md",
     "Computer Science/Computer Science.md",
     "Computer Science/C/C.md",
     "Computer Science/Resources.md",
@@ -198,16 +204,11 @@
     "Mathematics/Vector Math/Vector Math.md",
     "Mathematics/Linear Algebra/Linear Algebra.md",
     "Mathematics/Statistics/Statistics.md",
-    "Mathematics/Calculus/Calculus.md",
     "Mathematics/Vector Math",
     "Mathematics/Trigonometry",
     "Mathematics/Statistics",
     "Mathematics/Geometry",
     "Mathematics/Calculus",
-    "Mathematics/Linear Algebra",
-    "Español/Writing Practice/Writing Practice.md",
-    "Español/Writing Practice/Month 1.md",
-    "Computer Science/Reverse Engineering/Reverse Engineering.md",
     "Dibujo Técnico/Métodos del sistema diédrico/Images/Cambio de plano - plano.png",
     "Dibujo Técnico/Métodos del sistema diédrico/Images/Cambio de plano - recta.png",
     "Dibujo Técnico/Métodos del sistema diédrico/Images/Cambio de plano - punto 2.png",
@@ -217,7 +218,6 @@
     "Dibujo Técnico/Métodos del sistema diédrico/Images/Cambio de plano - horizontal.png",
     "Dibujo Técnico/Métodos del sistema diédrico/Images/Giro - plano.png",
     "Dibujo Técnico/Métodos del sistema diédrico/Images/Giro - enfocado Recta 2.png",
-    "Dibujo Técnico/Métodos del sistema diédrico/Images/Giro - enfocado Recta 1.png",
-    "Untitled.canvas"
+    "Dibujo Técnico/Métodos del sistema diédrico/Images/Giro - enfocado Recta 1.png"
   ]
 }

@@ -2,31 +2,31 @@
 ## Learner Literature
 
 ### Beginner
-* [ ] _El escape cubano_ (Mira Canion, 2017)  
-* [ ] _Agentes secretos y el mural de Picasso_ (Mira Canion, 2017)  
+* [x] _El escape cubano_ (Mira Canion, 2017)  
+* [x] _Agentes secretos y el mural de Picasso_ (Mira Canion, 2017)  
 * [ ? ] _La isla más peligrosa_ (John Sifert, 2018)  
 
 ### Advanced Beginner
-* [ ] _Esperanza_ (Carol Gaab, 2018)  
-* [ ] _La espía huérfana_ (Andrew Snider, 2017)
-* [ ] _Las tres pruebas_ (Andrew Snider, 2016)  
+* [ ? ] _Esperanza_ (Carol Gaab, 2018)  
+* [ ? ] _La espía huérfana_ (Andrew Snider, 2017)
+* [ ? ] _Las tres pruebas_ (Andrew Snider, 2016)  
 
 ### Intermediate
-* [ ] _La novia perfecta_ (Bryan Kandel, 2017)  
-* [ ] _Los sobrevivientes_ (Bryan Kandel, 2018)  
+* [ ? ] _La novia perfecta_ (Bryan Kandel, 2017)  
+* [ ? ] _Los sobrevivientes_ (Bryan Kandel, 2018)  
 * [ ] _El escape_ (AC Quintero, 2017)  
-* [ ] _El entierro_ (Adriana Ramírez, 2017)  
+* [ ? ] _El entierro_ (Adriana Ramírez, 2017)  
 
 ### Advanced Intermediate
-* [ ] _Vida y muerte en La Mara Salvatrucha_ (Anónimo, 2010)  
+* [ ? ] _Vida y muerte en La Mara Salvatrucha_ (Anónimo, 2010)  
 * [ ] _La guerra sucia_ (Nathaniel Kirby)  
 * [ ] _La hija del sastre_ (Carrie Toth & Carol Gaab, 2012)  
-* [ ] _Elena_ (Bill VanPatten, 2018)
+* [ ? ] _Elena_ (Bill VanPatten, 2018)
 
 ## Standard Literature
 
 ### Basic
-* [ ] _Lo secreto_ (María Luisa Bombal, 1941, short story)
+* [ ? ] _Lo secreto_ (María Luisa Bombal, 1941, short story)
 * [ ] _El árbol de oro_ (Ana María Matute, 1961, short story)
 * [ ] _A la deriva_ (Horacio Quiroga, 1917, short story)
 * [ ] _El último viaje del Buque Fantasma_ (Gabriel García Márquez, 1968, short story)
@@ -35,6 +35,7 @@
 * [ ] _El chancho limpio_ (Horacio Clemente, 2006)
 * [ ] _Papelucho_ (Marcela Paz, 1947)
 * [ ] _El buque fantasma_ (Alain Surget, 2007, translation)
+* CHECKED UP TO THIS POINT
 * [ ] _Fantasville series_ (Christopher Pike, 1990s, translation)
 * [ ] _La venganza de una bruja_ (Joseph Berna, 1970s, translation)
 * [ ] _Escalofrío_ (Guillermo Murray Prisant, 2006)
