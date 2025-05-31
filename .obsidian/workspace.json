@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Books/Grokking Algorithms/Dijkstra's algorithm/Dijkstra's algorithm.md",
+                "file": "Computer Science/Books/Grokking Algorithms/greedy algorithms/greedy algorithms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dijkstra's algorithm"
+              "title": "greedy algorithms"
+            }
+          },
+          {
+            "id": "fee0a3e4121f3832",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Books/Grokking Algorithms/greedy algorithms/greedy algorithms.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "greedy algorithms"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,10 +185,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2dc1dad549592f29",
+  "active": "fee0a3e4121f3832",
   "lastOpenFiles": [
-    "Untitled.md",
     "Computer Science/Books/Grokking Algorithms/Dijkstra's algorithm/Dijkstra's algorithm.md",
+    "Computer Science/Books/Grokking Algorithms/greedy algorithms/greedy algorithms.md",
+    "Computer Science/Books/Grokking Algorithms/greedy algorithms",
+    "Untitled.md",
     "Español/Books.md",
     "Español/Español.md",
     "Español/Writing Practice/Writing Practice.md",
@@ -203,12 +220,10 @@
     "Mathematics/Geometry/Geometry.md",
     "Mathematics/Vector Math/Vector Math.md",
     "Mathematics/Linear Algebra/Linear Algebra.md",
-    "Mathematics/Statistics/Statistics.md",
     "Mathematics/Vector Math",
     "Mathematics/Trigonometry",
     "Mathematics/Statistics",
     "Mathematics/Geometry",
-    "Mathematics/Calculus",
     "Dibujo Técnico/Métodos del sistema diédrico/Images/Cambio de plano - plano.png",
     "Dibujo Técnico/Métodos del sistema diédrico/Images/Cambio de plano - recta.png",
     "Dibujo Técnico/Métodos del sistema diédrico/Images/Cambio de plano - punto 2.png",
