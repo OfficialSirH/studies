@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Books/Grokking Algorithms/dynamic programming/dynamic programming.md",
+                "file": "Computer Science/Books/Grokking Algorithms/k-nearest neighbors/k-nearest neighbors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dynamic programming"
+              "title": "k-nearest neighbors"
             }
           }
         ],
@@ -187,8 +187,10 @@
   },
   "active": "fee0a3e4121f3832",
   "lastOpenFiles": [
-    "Computer Science/Books/Grokking Algorithms/greedy algorithms/greedy algorithms.md",
     "Computer Science/Books/Grokking Algorithms/dynamic programming/dynamic programming.md",
+    "Computer Science/Books/Grokking Algorithms/k-nearest neighbors/k-nearest neighbors.md",
+    "Computer Science/Books/Grokking Algorithms/k-nearest neighbors",
+    "Computer Science/Books/Grokking Algorithms/greedy algorithms/greedy algorithms.md",
     "Computer Science/Books/Grokking Algorithms/dynamic programming",
     "Computer Science/Books/Grokking Algorithms/Dijkstra's algorithm/Dijkstra's algorithm.md",
     "Computer Science/Books/Grokking Algorithms/greedy algorithms",
@@ -220,10 +222,8 @@
     "README.md",
     "Mathematics/Trigonometry/Trigonometry.md",
     "Mathematics/Geometry/Geometry.md",
-    "Mathematics/Vector Math/Vector Math.md",
     "Mathematics/Vector Math",
     "Mathematics/Trigonometry",
-    "Mathematics/Statistics",
     "Dibujo Técnico/Métodos del sistema diédrico/Images/Cambio de plano - plano.png",
     "Dibujo Técnico/Métodos del sistema diédrico/Images/Cambio de plano - recta.png",
     "Dibujo Técnico/Métodos del sistema diédrico/Images/Cambio de plano - punto 2.png",
