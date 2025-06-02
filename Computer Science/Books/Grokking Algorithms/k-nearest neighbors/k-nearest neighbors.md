@@ -16,7 +16,7 @@ In this example, users could be featured via 5 characteristics:
 - drama
 - horror
 - romance
-With these 5 data points, a user could compared to another with the *Pythagorean Formula*:
+With these 5 data points, a user could compared to another with the *Distance Formula*:
 
 $$
 \sqrt{ (x_{1} - x_{2})^2 + (y_{1} - y_{2})^2 }
@@ -37,7 +37,7 @@ An example of this being applied to 2 users could look like this:
 $$
 \sqrt{ (3 - 2)^2 + (4 - 5)^2 + (4 - 1)^2 + (1 - 3)^2 + (4 - 1)^2 }
 $$
-Which comes out to being 24, meaning those 2 users aren't that similar.
+Which comes out to being $2\sqrt{ 6 }$, meaning those 2 users aren't that similar.
 
 ### Exercises
 
@@ -77,7 +77,7 @@ Building a recommendations system with KNN is one form of machine learning as mo
 
 ### OCR
 
-OCR, also known as *optical character recognition*, is an algorithm that is aimed to recognize characters based on characteristics like lines, curves, and points. It does this with the help of the KNN algorithm but a lot more complex as learns what characters *should* generally look like based on given images for its *training* to recognize what curves, lines, and points every kind of character should have.
+OCR, also known as *optical character recognition*, is an algorithm that is aimed to recognize characters based on characteristics like lines, curves, and points. It does this with the help of the KNN algorithm but a lot more complex as it learns what characters *should* generally look like based on given images for its *training* to recognize what curves, lines, and points every kind of character should have.
 
 ### Building a spam filter
 
